@@ -1,2 +1,1 @@
-# Indonesia-AI
-Portofolio Project Bootcamp
+# Indonesia-AI Portofolio Project 1
